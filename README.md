@@ -20,4 +20,4 @@ Aplicación web para consultar el clima en tiempo real mediante la API de OpenWe
 ---
 
 ## 🔗 Enlaces
-- **Código:** [GitHub](https://github.com/alenunezzrivas/visor-clima)
+- **Código:** [GitHub](https://github.com/alenunezzrivas/App-Clima)
